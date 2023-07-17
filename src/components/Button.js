@@ -8,7 +8,6 @@ function Button() {
     // function increase(){
     //     setButton(button+1);
     // } 
-     
   return (
     <div>
         <p>Button clicked 0 times</p>
