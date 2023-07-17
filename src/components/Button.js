@@ -7,10 +7,11 @@ function Button() {
 
     // function increase(){
     //     setButton(button+1);
-    // }
+    // } 
+     
   return (
     <div>
-        <p>Button clicked 0 time</p>
+        <p>Button clicked 0 times</p>
         <button onClick={()=>setButton(button+1)}>Click me</button>
     </div>
   )
